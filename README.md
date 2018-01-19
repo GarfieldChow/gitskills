@@ -1,3 +1,3 @@
 # gitskills
 # Somethin has changed
-# I am learning gg
+# I am learning git
